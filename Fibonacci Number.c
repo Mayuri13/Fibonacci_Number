@@ -1,3 +1,7 @@
+//MiniProject-1
+//Code to find nth Fibonacci number
+//Mayuri Goswami, Scholar Id-2012076
+
 #include <stdio.h>
 #define MAX 4500
 void add(char num1[], char num2[], char result[])
