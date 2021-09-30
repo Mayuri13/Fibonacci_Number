@@ -1,5 +1,5 @@
 //MiniProject-1
-//Code to find nth Fibonacci number
+//Code to find Fibonacci number upto 2000
 //Mayuri Goswami, Scholar Id-2012076
 
 #include <stdio.h>
